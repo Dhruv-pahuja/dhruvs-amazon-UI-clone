@@ -1,1 +1,1 @@
-# dhruvs-amazon-clone
+# dhruvs-amazon-UI-clone
